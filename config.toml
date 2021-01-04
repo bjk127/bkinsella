@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://bkinsella.com/"
 title = "Eureka Demo"
 
 # Comment when installing using Hugo Modules
