@@ -1,5 +1,5 @@
 mainSections = ["posts"]
-description = "Eureka is a elegant and powerful theme for Hugo."
+description = "Personal website for Benjamin Kinsella"
 
 repoURL = ""
 # If it is a Github repo, leave blank
@@ -15,7 +15,7 @@ colorScheme = ""
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType = "Person"
 icon = "images/icon.png"
-publisherName = "C. Wang"
+publisherName = ""
 publisherLogo = ""
 
 [math]
